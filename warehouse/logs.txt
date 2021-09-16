@@ -1,0 +1,228 @@
+21:14 19/07/2021 Worker 1 has removed Quantity of 22 of 12 from warehouse Pajs 
+27:14 19/07/2021 Worker 1 has removed Quantity of 521 of 12 from warehouse Pajs 
+32:14 19/07/2021 Worker 1 has added Quantity of 5312 of 12 from warehouse Pajs 
+14:33 19/07/2021 Worker 1 has Altered Prices of 12 to 120 (Sale Price) and 12 (Import Price) from warehouse Pajs 
+15:29 19/07/2021 Worker 1 has Logged in 
+15:30 19/07/2021 Worker  has Logged out 
+15:32 19/07/2021 Worker 1 has Logged in 
+15:32 19/07/2021 Worker  has Logged out 
+15:34 19/07/2021 Worker 1 has Logged in 
+15:34 19/07/2021 Worker '' has Logged out 
+15:34 19/07/2021 Worker '' has Logged out 
+15:35 19/07/2021 Worker 1 has Logged in 
+15:35 19/07/2021 Worker '1' has Logged out
+15:37 19/07/2021 Worker 1 has Logged in 
+15:37 19/07/2021 Worker  has Altered Prices of sakdksa to 532 (Sale Price) and 643 (Import Price) from warehouse 
+15:38 19/07/2021 Worker  has Entered dsadsa to warehouse 
+15:50 19/07/2021 Worker  has Deleted Product  from warehouse Pajs 
+16:05 19/07/2021 Worker  has Deleted Product sakdksa from warehouse Pajs 
+20:49 19/07/2021 Worker '' has Logged out
+20:49 19/07/2021 Worker 1 has Logged in
+11:53 20/07/2021 Worker 1 has Logged in
+13:31 20/07/2021 Worker '' has Logged out
+13:31 20/07/2021 Worker 1 has Logged in
+14:07 20/07/2021 Worker '1' has Logged out
+14:10 20/07/2021 Worker Spele has Logged in
+17:30 20/07/2021 Worker Spele has Logged in
+17:36 20/07/2021 Worker  has Entered Product darko2 to warehouse 
+19:13 20/07/2021 Worker 'Spele' has Logged out
+19:13 20/07/2021 Worker Spele has Logged in
+09:15 21/07/2021 Worker '' has Logged out
+09:15 21/07/2021 Worker Spele has Logged in
+14:01 21/07/2021 Worker Spele has Logged in
+14:05 21/07/2021 Worker 'Spele' has Logged out
+14:06 21/07/2021 Worker Spele has Logged in
+14:12 21/07/2021 Worker Spele has Logged in
+14:46 21/07/2021 Worker '' has Logged out
+14:46 21/07/2021 Worker Spele has Logged in
+15:39 27/07/2021 Worker Spele has Logged in
+15:39 27/07/2021 Worker  has Entered Product Vode to warehouse 
+15:39 27/07/2021 Worker  has Entered Product Saksije to warehouse 
+15:42 27/07/2021 Worker  has Deleted Product Saksije from warehouse Kalabaster
+18:00 02/08/2021 Worker Spele has Logged in
+18:02 02/08/2021 Worker  has Entered Product dsadsa to warehouse 
+18:56 02/08/2021 Worker '' has Logged out
+19:15 02/08/2021 Worker Spele has Logged in
+19:15 02/08/2021 Worker 'Spele' has Logged out
+20:39 02/08/2021 Worker 1 has Logged in
+20:39 02/08/2021 Worker '1' has Logged out
+12:57 03/08/2021 Worker 3 has Logged in
+13:19 03/08/2021 Worker '3' has Logged out
+16:25 03/08/2021 Worker Spele has Logged in
+17:16 03/08/2021 Worker Spele has Logged in
+19:24 03/08/2021 Worker Spele has Logged in
+19:29 03/08/2021 Worker 'Spele' has Logged out
+19:30 03/08/2021 Worker 5 has Logged in
+19:30 03/08/2021 Worker '5' has Logged out
+19:30 03/08/2021 Worker Spele has Logged in
+23:09 03/08/2021 Worker Spele has Logged in
+23:24 03/08/2021 Worker 'Spele' has Logged out
+23:25 03/08/2021 Worker Spele has Logged in
+10:39 04/08/2021 Worker Spele has Logged in
+10:40 04/08/2021 Worker 'Spele' has Logged out
+10:40 04/08/2021 Worker 3 has Logged in
+10:40 04/08/2021 Worker '3' has Logged out
+10:40 04/08/2021 Worker Spele has Logged in
+10:42 04/08/2021 Worker 'Spele' has Logged out
+10:42 04/08/2021 Worker 3 has Logged in
+11:21 04/08/2021 Worker '' has Logged out
+11:21 04/08/2021 Worker Spele has Logged in
+12:36 04/08/2021 Worker 'Spele' has Logged out
+12:36 04/08/2021 Worker $ has Logged in
+12:43 04/08/2021 Worker '52151' has Logged out
+12:43 04/08/2021 Worker Spele has Logged in
+12:43 04/08/2021 Worker '521' has Logged out
+12:43 04/08/2021 Worker Spele has Logged in
+13:28 04/08/2021 Worker '' has Logged out
+13:28 04/08/2021 Worker Spele has Logged in
+13:29 04/08/2021 Worker '53' has Logged out
+13:29 04/08/2021 Worker Spele has Logged in
+13:39 04/08/2021 Worker Spele has Logged in
+14:21 04/08/2021 Worker Spele has Logged in
+17:17 04/08/2021 Worker Spele has Logged in
+20:10 04/08/2021 Worker '' has Logged out
+20:10 04/08/2021 Worker Spele has Logged in
+11:21 05/08/2021 Worker Spele has Logged in
+12:10 05/08/2021 Worker Spele has Logged in
+12:54 05/08/2021 Worker 'Spele' has Logged out
+13:07 05/08/2021 Worker Spele has Logged in
+13:08 05/08/2021 Worker  has Entered Product Doto to warehouse 
+13:16 05/08/2021 Worker 'Spele' has Logged out
+13:16 05/08/2021 Worker Spele has Logged in
+18:10 05/08/2021 Worker Spele has Logged in
+11:27 06/08/2021 Worker Spele has Logged in
+12:01 06/08/2021 Worker  has Entered Product darko to warehouse 
+12:02 06/08/2021 Worker  has Entered Product sakdksa to warehouse 
+12:13 06/08/2021 Worker 'Spele' has Logged out
+12:13 06/08/2021 Worker Spele has Logged in
+12:16 06/08/2021 Worker 'Spele' has Logged out
+12:16 06/08/2021 Worker Spele has Logged in
+12:36 06/08/2021 Worker  has Entered Product  to warehouse 
+17:46 06/08/2021 Worker '' has Logged out
+17:46 06/08/2021 Worker Spele has Logged in
+18:30 06/08/2021 Worker 'Spele' has Logged out
+22:32 06/08/2021 Worker Spele has Logged in
+16:05 07/08/2021 Worker Spele has Logged in
+17:09 07/08/2021 Worker Spele has Logged in
+21:10 07/08/2021 Worker Spele has Logged in
+21:12 07/08/2021 Worker  has Entered Product darko to warehouse 
+21:12 07/08/2021 Worker  has Entered Product darko to warehouse 
+21:13 07/08/2021 Worker  has Entered Product darko to warehouse 
+21:14 07/08/2021 Worker  has Entered Product darko to warehouse 
+21:14 07/08/2021 Worker  has Entered Product darko to warehouse 
+21:16 07/08/2021 Worker  has Entered Product darko to warehouse 
+18:00 08/08/2021 Worker  has Entered Product darko to warehouse 
+18:03 08/08/2021 Worker '' has Logged out
+18:03 08/08/2021 Worker Spele has Logged in
+18:03 08/08/2021 Worker  has Entered Product darko to warehouse 
+18:21 08/08/2021 Worker  has Entered Product darko to warehouse 
+18:22 08/08/2021 Worker  has Entered Product 12 to warehouse 
+18:22 08/08/2021 Worker  has Entered Product 12 to warehouse 
+18:23 08/08/2021 Worker  has Entered Product 12 to warehouse 
+18:29 08/08/2021 Worker Spele has Entered Product darko to warehouse 
+18:31 08/08/2021 Worker Spele has Entered Product darko to warehouse 
+18:31 08/08/2021 Worker Spele has Entered Product darko to warehouse 
+18:32 08/08/2021 Worker Spele has Entered Product darko to warehouse 
+18:38 08/08/2021 Worker Spele has Entered Product darko to warehouse wanna
+18:38 08/08/2021 Worker Spele has Entered Product darko to warehouse wanna
+18:39 08/08/2021 Worker Spele has Entered Product darko to warehouse wanna
+18:39 08/08/2021 Worker Spele has Entered Product darko to warehouse wanna
+19:00 08/08/2021 Worker Spele has Entered Product sakdksa to warehouse wanna
+19:01 08/08/2021 Worker Spele has Entered Product darko2 to warehouse wanna
+19:02 08/08/2021 Worker Spele has Entered Product dsadsa to warehouse wanna
+19:12 08/08/2021 Worker Spele has Entered Product 12421 to warehouse wanna
+19:12 08/08/2021 Worker Spele has Entered Product darko to warehouse wanna
+19:13 08/08/2021 Worker Spele has Entered Product darko to warehouse wanna
+19:16 08/08/2021 Worker Spele has Entered Product darko2 to warehouse wanna
+19:19 08/08/2021 Worker  has added Quantity of 5215 of darko2 from warehouse wanna
+19:19 08/08/2021 Worker  has removed Quantity of 1222 of darko2 from warehouse wanna
+19:20 08/08/2021 Worker  has Altered Prices of darko2 to 521 (Sale Price) and 521 (Import Price) from warehouse wanna
+19:20 08/08/2021 Worker  has Altered Prices of darko to 531 (Sale Price) and 251 (Import Price) from warehouse wanna
+19:26 08/08/2021 Worker  has Altered Prices of darko to 5311 (Sale Price) and 2511 (Import Price) from warehouse wanna
+19:26 08/08/2021 Worker  has Altered Prices of darko to 5122 (Sale Price) and 53112 (Import Price) from warehouse wanna
+19:26 08/08/2021 Worker  has Altered Prices of zarko to 15053 (Sale Price) and 1231 (Import Price) from warehouse wanna
+19:26 08/08/2021 Worker  has Altered Prices of sakdksa to 21 (Sale Price) and 25 (Import Price) from warehouse wanna
+19:28 08/08/2021 Worker  has added Quantity of 12521 of darko from warehouse wanna
+19:28 08/08/2021 Worker  has added Quantity of 5555555 of darko from warehouse wanna
+19:28 08/08/2021 Worker  has removed Quantity of 535335 of darko from warehouse wanna
+19:28 08/08/2021 Worker  has removed Quantity of 555555 of darko from warehouse wanna
+19:29 08/08/2021 Worker  has Altered Prices of darko2 to 212121 (Sale Price) and 532121 (Import Price) from warehouse wanna
+19:51 08/08/2021 Worker Spele has added Quantity of 150 of sakdksa from warehouse wanna
+19:51 08/08/2021 Worker Spele has added Quantity of 21 of zarko from warehouse wanna
+20:02 08/08/2021 Worker  has removed Quantity of 10000 of sakdksa from warehouse wanna
+20:04 08/08/2021 Worker  has removed Quantity of 2000 of sakdksa from warehouse wanna
+20:05 08/08/2021 Worker  has removed Quantity of 62 of sakdksa from warehouse wanna
+20:06 08/08/2021 Worker  has removed Quantity of 200 of sakdksa from warehouse wanna
+20:31 08/08/2021 Worker  has removed Quantity of 200 of sakdksa from warehouse wanna
+20:31 08/08/2021 Worker  has removed Quantity of 200 of sakdksa from warehouse wanna
+20:32 08/08/2021 Worker Spele has removed Quantity of 200 of sakdksa from warehouse wanna
+20:32 08/08/2021 Worker Spele has removed Quantity of 200 of sakdksa from warehouse wanna
+20:37 08/08/2021 Worker  has Altered Prices of dsadsa to 512 (Sale Price) and 531 (Import Price) from warehouse wanna
+20:37 08/08/2021 Worker Spele has added Quantity of 12 of dsadsa from warehouse wanna
+20:37 08/08/2021 Worker Spele has removed Quantity of 12 of dsadsa from warehouse wanna
+21:29 08/08/2021 Worker Spele has Logged in
+20:08 09/08/2021 Worker Spele has Logged in
+20:15 09/08/2021 Worker  has Deleted Product sakdksa from warehouse wanna
+21:17 09/08/2021 Worker Spele has Logged in
+19:29 11/08/2021 Worker Spele has Logged in
+21:24 11/08/2021 Worker Spele has removed Quantity of 75 of zarko from warehouse wanna
+21:27 11/08/2021 Worker  has Deleted Product darko from warehouse wanna
+21:27 11/08/2021 Worker  has Deleted Product darko2 from warehouse wanna
+21:27 11/08/2021 Worker  has Deleted Product zarko from warehouse wanna
+21:27 11/08/2021 Worker Spele has Entered Product Benco to warehouse wanna
+23:05 11/08/2021 Worker Spele has Logged in
+23:25 11/08/2021 Worker 'Spele' has Logged out
+16:40 12/08/2021 Worker Spele has Logged in
+17:23 12/08/2021 Worker 'Spele' has Logged out
+17:23 12/08/2021 Worker Spele has Logged in
+17:31 12/08/2021 Worker 'Spele' has Logged out
+17:31 12/08/2021 Worker Spele has Logged in
+17:37 12/08/2021 Worker 'Spele' has Logged out
+17:37 12/08/2021 Worker Spele has Logged in
+17:37 12/08/2021 Worker Spele has Logged in
+18:03 12/08/2021 Worker Spele has Entered Product 21 to warehouse wanna
+02:10 14/08/2021 Worker Spele has Logged in
+14:37 16/08/2021 Worker Spele has Logged in
+14:38 16/08/2021 Worker Spele has Entered Product dsadsa to warehouse wanna
+16:12 16/08/2021 Worker Spele has Logged in
+18:58 16/08/2021 Worker Spele has Logged in
+20:55 16/08/2021 Worker Spele has Logged in
+20:55 16/08/2021 Worker 'Spele' has Logged out
+20:56 16/08/2021 Worker sisavac has Logged in
+20:56 16/08/2021 Worker 'sisavac' has Logged out
+20:59 16/08/2021 Worker tpk has Logged in
+20:59 16/08/2021 Worker 'tpk' has Logged out
+21:00 16/08/2021 Worker ranko has Logged in
+21:01 16/08/2021 Worker  has Deleted Product darko from warehouse wanna
+21:01 16/08/2021 Worker  has Altered Prices of darko2 to 150 (Sale Price) and 120 (Import Price) from warehouse wanna
+21:01 16/08/2021 Worker zarko has removed Quantity of 100 of darko2 from warehouse wanna
+21:01 16/08/2021 Worker  has Deleted Product darko2 from warehouse wanna
+21:02 16/08/2021 Worker  has Deleted Product dsadsa from warehouse wanna
+21:02 16/08/2021 Worker zarko has Entered Product Saksije to warehouse wanna
+21:02 16/08/2021 Worker zarko has Entered Product Cement to warehouse wanna
+21:03 16/08/2021 Worker 'zarko' has Logged out
+21:03 16/08/2021 Worker zoran has Logged in
+21:03 16/08/2021 Worker  has Deleted Product darko from warehouse wanna
+21:04 16/08/2021 Worker  has Altered Prices of Benco to 110 (Sale Price) and 100 (Import Price) from warehouse wanna
+21:04 16/08/2021 Worker zoki has removed Quantity of 20 of Benco from warehouse wanna
+21:04 16/08/2021 Worker zoki has Entered Product Cement to warehouse wanna
+21:05 16/08/2021 Worker 'zoki' has Logged out
+21:05 16/08/2021 Worker Spele has Logged in
+21:08 16/08/2021 Worker Spele has Entered Product Cvijece to warehouse 
+21:09 16/08/2021 Worker 'Spele' has Logged out
+21:10 16/08/2021 Worker ratko has Logged in
+21:10 16/08/2021 Worker ratko22 has added Quantity of 100 of Benco from warehouse wanna
+21:11 16/08/2021 Worker  has Altered Prices of Benco to 1500 (Sale Price) and 1500 (Import Price) from warehouse wanna
+21:11 16/08/2021 Worker  has Deleted Product 21 from warehouse wanna
+21:11 16/08/2021 Worker ratko22 has removed Quantity of 50 of Benco from warehouse wanna
+21:11 16/08/2021 Worker ratko22 has Entered Product Dorito to warehouse wanna
+21:12 16/08/2021 Worker 'ratko22' has Logged out
+21:12 16/08/2021 Worker Spele has Logged in
+12:53 21/08/2021 Worker Spele has Logged in
+12:54 21/08/2021 Worker 'Spele' has Logged out
+12:27 24/08/2021 Worker Spele has Logged in
+12:28 24/08/2021 Worker Spele has added Quantity of 12 of Cement from warehouse wanna
+12:28 24/08/2021 Worker Spele has added Quantity of 100 of Dorito from warehouse wanna
+12:28 24/08/2021 Worker  has Altered Prices of Cement to 20 (Sale Price) and 10 (Import Price) from warehouse wanna
+12:29 24/08/2021 Worker  has Altered Prices of Cement to 200 (Sale Price) and 10 (Import Price) from warehouse wanna
+12:29 24/08/2021 Worker  has Deleted Product Cement from warehouse wanna

@@ -1,0 +1,1 @@
+Worker 1 has removed Quantity of 1 of 12 from warehouse Pajs
